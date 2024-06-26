@@ -1,6 +1,8 @@
+from core.env_variables import frontend_origin
+
 origins = [
-    "http://localhost:3000",
-    "https://easybalance-5k23klcuia-uc.a.run.app"
+    frontend_origin,
+    "http://localhost:3000"
 ]
 
 methods = [
