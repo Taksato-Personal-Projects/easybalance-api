@@ -1,5 +1,5 @@
 origins = [
-    "localhost:3000",
+    "http://localhost:3000",
     "https://easybalance-5k23klcuia-uc.a.run.app"
 ]
 
